@@ -1,0 +1,26 @@
+h1{
+  font-family:cursive;
+  color:maroon; text-align:center;font-size:300%;
+  }
+p1{
+  color:gray;font-size:120%;
+}
+p2,p3,p4{
+  color:blue
+}
+p5{
+  color: brown; font-size:150%; font-family: cursive;
+}
+p6{
+  color:Red
+}
+p7{
+  color: brown; font-size:150%; font-family: cursive;
+}
+body{
+  background-image:url('bg112.jpg'); background-size:100%; height: 100%;
+}
+li{
+  background: #cce5ff;
+  margin:5px
+}
